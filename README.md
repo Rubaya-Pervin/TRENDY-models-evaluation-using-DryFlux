@@ -12,4 +12,8 @@ code: code used in the analysis
   
   KDE.py: Create ridgeline plot of the Kernel Density Estimates  
   
-  Scatter_plots.py: Codes for Figure 5 and 8
+  Scatter_plots.py: Code for Figure 5 and 8
+
+  PFT_maps&plots.py: Code for PFT maps and plots
+
+  BurntArea.py: Code for burnt area maps and plots
